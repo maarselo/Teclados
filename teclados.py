@@ -1,0 +1,4 @@
+respuesta = input()
+print(respuesta)
+
+    
